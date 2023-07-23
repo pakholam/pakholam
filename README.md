@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+个人简历地址： https://github.com/pakholam/pakholam/blob/main/resume.md
 <!--
 **pakholam/pakholam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
