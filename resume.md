@@ -1,6 +1,4 @@
-#
-
-<center><h1>林满钦</h1></center>
+# <center>林满钦</center>
 
 <center> <b>📱: 15913830160</b> · <b>📧: pakholam1998@icloud.com</b> · <b> <img alt="Static Badge" src="https://img.shields.io/badge/-white?logo=wechat">
 : Cerf_Baleine</b> </center>
@@ -22,7 +20,7 @@
 ---
 
 ## 技能清单
-  
+
 ### 核心技能
 
 `TypeScript & JavaScript`
@@ -96,7 +94,7 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
   4. 集成 iOS 平台 SDK
 
 - <b>项目经验</b>
-`Solo Spellcasting`/`Magic Guardian(iOS)`
+  `Solo Spellcasting`/`Magic Guardian(iOS)`
   - `项目简介`:一款海外哈利波特风格Roguelike竖屏塔防游戏，玩家可通过法杖施法，选择技能卡牌，升级装备等方式进行策略防御。
   - `项目负责`:
     - `基础框架搭建`:
@@ -128,7 +126,7 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
     - 优化 iOS 性能，包括 纹理压缩（ASTC/PVRTC）、减少 Draw Call、优化资源加载，使包体减小 65%，提升流畅度 125%。
     - 成功通过 App Store 审核，产品顺利上线。
   
-  - `技术要点`:<img alt="Static Badge" src="https://img.shields.io/badge/-Cocos_Creator_3.8.2-white?logo=Cocos&logoColor=%2355C2E1" > <img alt="Static Badge" src="https://img.shields.io/badge/-Typescript-white?logo=typescript"> <img alt="Static Badge" src="https://img.shields.io/badge/-Objective--C-white?logo=Apple&logoColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/-pomelo-white?logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/-Websocket-white"> <img alt="Static Badge" src="https://img.shields.io/badge/-TSRPC-white"> <img alt="Static Badge" src="https://img.shields.io/badge/-FairyGUI-white"> <img alt="Static Badge" src="https://img.shields.io/badge/-ECS架构-white">
+  - `技术要点`: `Cocos Cretor 3.8.2` `Typescript` `Objective-C` `pomelo` `Websocket` `TSRPC` `FairyGUI` `ECS架构`
 
   `Endless Castle`
   - `项目简介`:一款海外暗黑风开箱RPG游戏，类似《寻道大千》。
@@ -145,7 +143,7 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
     - 适配多流量渠道的SDK集成，提升市场激活效果。
     - 优化社交功能，提升玩家激活度，促进游戏社区活跃度。
     - 推动iOS版本上线:原项目仅支持Android，适配游戏至iOS，并成功上线，拓展了iOS玩家市场。
-  - `技术要点`: <img alt="Static Badge" src="https://img.shields.io/badge/-Cocos_Creator_3.5.2-white?logo=Cocos&logoColor=%2355C2E1" > <img alt="Static Badge" src="https://img.shields.io/badge/-Typescript-white?logo=typescript"> <img alt="Static Badge" src="https://img.shields.io/badge/-Objective--C-white?logo=Apple&logoColor=black"> <img alt="Static Badge" src="https://img.shields.io/badge/-pomelo-white?logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/-Websocket-white">
+  - `技术要点`: `Cocos_Creator_3.5.2` `Typescript` `Objective-C` `pomelo` `Websocket`
 
 ---
 
@@ -172,7 +170,7 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
       - 独立开发新手指引、新手攻略功能，优化新玩家体验。
       - 参与见习系统、任务系统、繁殖系统等功能的设计与开发。
       - 协同团队完成角色成长、战斗匹配、道具管理等模块的历史代码重构。
-  - `技术要点`: <img alt="Static Badge" src="https://img.shields.io/badge/-Cocos_Creator_2.4.4-white?logo=Cocos&logoColor=%2355C2E1"> <img alt="Static Badge" src="https://img.shields.io/badge/-Typescript-white?logo=typescript"> <img alt="Static Badge" src="https://img.shields.io/badge/-Websocket-white"> <img alt="Static Badge" src="https://img.shields.io/badge/-MVP框架-white"> <img alt="Static Badge" src="https://img.shields.io/badge/-HTTP-white">
+  - `技术要点`: `Cocos_Creator_2.4.4` `Typescript` `Websocket` `Http API` `MVP框架`
   
 ---
 
@@ -187,7 +185,7 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
   - `项目负责`:
     - 负责小程序的 UI 设计、前端开发及日常维护，优化用户体验。
     - 基于 Uniapp + Vue3 开发，封装 axios 请求，与后端联调。
-  - `技术要点`: `typescript`、`vue3`、`uniapp` 、`axios`、`elementUI`
+  - `技术要点`: `Typescript`、`Vue3`、`Uniapp` 、`Axios`、`ElementUI`
 
 摄影/剪辑/美工
 
