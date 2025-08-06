@@ -1,4 +1,6 @@
-# <center>林满钦</center>
+---
+
+<center><h1>林满钦</h1></center>
 
 <center> <b>📱: 15913830160</b> · <b>📧: pakholam1998@icloud.com</b> · <b> <img alt="Static Badge" src="https://img.shields.io/badge/-white?logo=wechat">
 : Cerf_Baleine</b> </center>
@@ -12,7 +14,7 @@
 - 林满钦 / 男 / 1998.3
 - 本科 / 广东科技学院 计算机系 `信息管理与信息系统` / `2021 毕业` / `GPA 3.94`
 - `专业学习`: oracle、数据挖掘、机器学习、数据统计与数据提取
-- 工作年限 `4年` / `2020.12 ~ 2025.3`
+- 工作年限 `4年` / `2020.12 ~ 2025.5`
 - `Github`: <https://github.com/pakholam>
 - 期望城市:  `深圳`
 - 定位: `cocos creator` /  `typescript` / `ios`
@@ -71,20 +73,11 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
 
 ---
 
-## 开源作品
-
-- [`airplane`](https://github.com/pakholam/airplane): `cocos 3.7.2` + `ts` 竖屏指控飞机游戏(<https://github.com/pakholam/airplane>)
-- [`airplane2`](https://github.com/pakholam/airplane2): `cocos 3.7.3` + `ts` 基于`airplane`二创横屏摇杆飞机游戏(<https://github.com/pakholam/airplane2>)
-- [`throttle`](https://github.com/pakholam/ts-decorators-throttle): 函数节流装饰器(<https://github.com/pakholam/ts-decorators-throttle>)
-- [`debounce`](https://github.com/pakholam/ts-decorators-debounce): 函数防抖装饰器(<https://github.com/pakholam/ts-decorators-debounce>)
-
----
-
 ## 工作经历与项目经验
 
 ### 深圳市秋星科技有限公司
 
-<p style="float:right;display:inline-block"> 2023.8 ~ 2025.3</p>
+<p style="float:right;display:inline-block"> 2023.8 ~ 2025.5</p>
 游戏客户端程序员
 
 - <b>工作职责:</b>
@@ -149,9 +142,9 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
 
 ### 珠海心游科技股份有限公司
 
-<p style="float:right;display:inline-block"> 2021.9 ~ 2023.7</p>
 游戏客户端程序员
 
+<p style="float:right;display:inline-block"> 2021.9 ~ 2023.7</p>
 - <b>工作职责:</b>
   1. 负责游戏客户端的开发工作
   2. 协助主程确认策划组的需求并完成开发
@@ -174,7 +167,7 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
   
 ---
 
-### 惠州旅趣科技有限公司(创业)
+### 惠州旅趣科技有限公司
 
 <p style="float:right;display:inline-block"> 2020.12 ~ 2021.8</p>
 小程序开发程序员
@@ -202,8 +195,3 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
 ## 其他
 
 - `兴趣爱好`: 骑行 / 滑板 / 羽毛球 / 滑雪 / 游戏(卡牌养成新游, LOL, 金铲铲之战)
-- `证书荣誉`:`CET-4`、`校第五届计算机知识竞赛冠军`、`新生军训优秀先进个人`
-
----
-
-- 更新时间: 2025/3/16
