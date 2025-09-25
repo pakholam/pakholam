@@ -14,7 +14,7 @@
 - 林满钦 / 男 / 1998.3
 - 本科 / 广东科技学院 计算机系 `信息管理与信息系统` / `2021 毕业` / `GPA 3.94`
 - `专业学习`: oracle、数据挖掘、机器学习、数据统计与数据提取
-- 工作年限 `4年` / `2020.12 ~ 2025.5`
+- 工作年限 `4年` / `2020.12 ~ 2025.9`
 - `Github`: <https://github.com/pakholam>
 - 期望城市:  `深圳`
 - 定位: `cocos creator` /  `typescript` / `ios`
@@ -77,7 +77,7 @@ WebSocket、HTTP API、Protobuf（与服务器实时通信）
 
 ### 深圳市秋星科技有限公司
 
-<p style="float:right;display:inline-block"> 2023.8 ~ 2025.5</p>
+<p style="float:right;display:inline-block"> 2023.8 ~ 2025.9</p>
 游戏客户端程序员
 
 - <b>工作职责:</b>
